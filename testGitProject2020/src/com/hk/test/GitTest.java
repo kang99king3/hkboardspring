@@ -23,4 +23,7 @@ public class GitTest {
 		System.out.println("testafassssssssssaaafgfgfgfga");
 		System.out.println("testafasf111111111aaaaaafgfgfgfgadddddddddddddddddd");
 	}
+	public void test() {
+		System.out.println("kkkk");
+	}
 }
