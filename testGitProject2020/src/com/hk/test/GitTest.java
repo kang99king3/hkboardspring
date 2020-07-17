@@ -9,4 +9,7 @@ public class GitTest {
 		System.out.println("하이루");
 	}
 
+	public void test2() {
+		System.out.println("kkk");
+	}
 }
