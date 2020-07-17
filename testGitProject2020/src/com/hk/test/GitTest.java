@@ -8,9 +8,5 @@ public class GitTest {
 		System.out.println("kang2가 추가");
 		System.out.println("하이루");
 	}
-	
-	public void test() {
-		System.out.println("하이하이~~");
-	}
 
 }
