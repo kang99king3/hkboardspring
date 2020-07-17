@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("새로운 내용 추가");
 		System.out.println("kang1이 추가");
 		System.out.println("kang2가 추가");
+		System.out.println("하이루");
 	}
 
 }
