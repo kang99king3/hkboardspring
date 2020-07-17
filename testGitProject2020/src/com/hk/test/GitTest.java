@@ -26,4 +26,7 @@ public class GitTest {
 	public void test() {
 		System.out.println("kkkk");
 	}
+	public void test() {
+		System.out.println("kkkk");
+	}
 }
