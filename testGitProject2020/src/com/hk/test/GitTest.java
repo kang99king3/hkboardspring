@@ -12,5 +12,7 @@ public class GitTest {
 	public void test1() {
 		System.out.println("test13");
 		System.out.println("test114441");
+		System.out.println("test44444");
+		System.out.println("testafasfa11");
 	}
 }
